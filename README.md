@@ -1,5 +1,5 @@
-# RLBotPythonExample
-Example of a Python bot using the RLBot framework
+# RLBot Starter
+A library to use with the RLBot framework to easily create Python bots.
 
 ## Quick Start
 The easiest way to start a Python bot is demonstrated here!
@@ -11,7 +11,7 @@ It shows you how to:
 
 ## Changing the bot
 
-- Bot behavior is controlled by `src/bot.py`
+- Bot behavior is controlled by `src/bot_actions.py`
 - Bot appearance is controlled by `src/appearance.cfg`
 
 See https://github.com/RLBot/RLBotPythonExample/wiki for documentation and tutorials.
