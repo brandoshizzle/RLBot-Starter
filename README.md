@@ -1,9 +1,9 @@
 # RLBot Starter
 A library to use with the RLBot framework to easily create Python bots.
 
-## Install some Programs
+## Install some programs
 You'll need to install three things:
-- Rocket League (for testing)
+- Rocket League, Epic or Steam (for testing)
 - [RLBot GUI](https://github.com/RLBot/RLBotGUI/releases/download/v1.0/RLBotGUI.msi)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
